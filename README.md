@@ -37,7 +37,7 @@
 
 <br clear="both">
 
-<a href="https://www.instagram.com/ashish_" target="_blank">
+<a href="https://www.linkedin.com/in/ashish-magar-870469230" target="_blank">
   <img src="https://raw.githubusercontent.com/AshishM-7/AshishM-7/output/snake.svg" alt="Snake animation" />
 </a>
 
