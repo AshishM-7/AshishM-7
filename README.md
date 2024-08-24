@@ -37,14 +37,14 @@
 
 <br clear="both">
 
-<a href="https://www.linkedin.com/in/ashish-magar-870469230" target="_blank">
+<a href="https://www.instagram.com/ashish_" target="_blank">
   <img src="https://raw.githubusercontent.com/AshishM-7/AshishM-7/output/snake.svg" alt="Snake animation" />
 </a>
 
 ###
 
 <div align="left">
-  <a href="https://https://www.instagram.com/ashish__m_?igsh=MTk1dzZqTzEyaDZ0OA==" target="_blank">
+  <a href="https://www.instagram.com/ashish__m_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ashish-magar-870469230" target="_blank">
