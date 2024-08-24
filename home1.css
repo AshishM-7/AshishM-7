@@ -1,0 +1,39 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    font-family: 'Algerian', sans-serif; /* This assumes 'Algerian' is available */
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.stats-container {
+    text-align: center;
+}
+
+.tech-stack {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: left;
+    margin: 20px;
+}
+
+.tech-stack img {
+    margin-right: 12px;
+}
+
+.social-links {
+    text-align: left;
+    margin: 20px;
+}
+
+.social-links a {
+    margin-right: 12px;
+    display: inline-block;
+}
