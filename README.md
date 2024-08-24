@@ -38,17 +38,27 @@
 <br clear="both">
 
 <a href="https://www.linkedin.com/in/ashish-magar-870469230" target="_blank">
-<img src="https://raw.githubusercontent.com/AshishM-7/AshishM-7/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AshishM-7/AshishM-7/output/snake.svg" alt="Snake animation" />
+</a>
 
 ###
 
 <div align="left">
-  <a href="https://https://www.instagram.com/ashish_m?igsh=cTJraGhmdm02anYx" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /><a href="https://www.linkedin.com/in/ashish-magar-870469230" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /><a href="https://www.linkedin.com/in/ashish-magar-870469230" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /><a href="https://www.linkedin.com/in/ashish-magar-870469230" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /><a href="https://www.linkedin.com/in/ashish-magar-870469230" target="_blank">
+  <a href="https://www.instagram.com/ashish_m?igsh=cTJraGhmdm02anYx" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/AshishM-7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/invite/your-discord-id" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.facebook.com/your-facebook-id" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://twitter.com/your-twitter-id" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
